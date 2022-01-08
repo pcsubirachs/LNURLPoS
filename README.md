@@ -1,4 +1,4 @@
-# LNURLPoS
+# LNURLPoS Subirachs Copy
 ## Cheap, offline(!), DIY bitcoin lightning-network PoS
 
 ![lnurlpos](https://user-images.githubusercontent.com/33088785/134943216-1a9f3ab6-09da-4e15-b16a-2c2f8bc918da.png)
